@@ -1,0 +1,13 @@
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\bin\Release\KMValidator.dll
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\bin\Release\KMValidator.pdb
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\bin\Release\KMValidator.KMValidator.apk
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\bin\Release\KMValidator.KMValidator-Signed.apk
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\KMValidator.dll
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\KMValidator.pdb
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\android\bin\KMValidator.KMValidator.apk
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\res\layout\main.xml
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\res\values\strings.xml
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\res\drawable\icon.png
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\res\drawable\car.png
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\R.cs.flag
+C:\Users\zhe.liu\documents\visual studio 2013\Projects\KMValidator\KMValidator\obj\Release\uploadflags.txt
