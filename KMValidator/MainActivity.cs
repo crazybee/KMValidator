@@ -41,7 +41,7 @@ namespace KMValidator
             {
                 _validationMsg = Validation();
                 _validationText.Text = "";
-                _validationText.Text = string.Format("Mileage is {0}.\n Calculated reasonable range is {1} ~ {2}.", _validationMsg, _calKmMin, _calKmMax);
+                _validationText.Text = string.Format("Mileage is {0}.\n Reasonable range is {1} ~ {2}.", _validationMsg, _calKmMin, _calKmMax);
             };
         }
 
